@@ -1,1 +1,2 @@
-Pairwise testing technique examples and test cases
+Test cases are available here:
+[Pairwise_Tests.xlsx](Pairwise_Tests.xlsx)
